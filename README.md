@@ -2,7 +2,7 @@
 
 Open your terminal and for downloading project:
 ```
-git@github.com:pardayevodilbek/react-hooklar.git
+git clone git@github.com:pardayevodilbek/react-hooklar.git
 ```
 
 Install node_modules: 
